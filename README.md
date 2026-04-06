@@ -31,6 +31,5 @@ The goal of this project was to practice building modern frontend applications u
 
 * Add property filtering and search
 * Add contact form functionality
-* Connect the project to a backend database
-
-Final Year Computer Science Student
+* Connect the project to a backend database.
+Final Year Computer Science Studen
